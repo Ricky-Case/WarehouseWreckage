@@ -1,7 +1,11 @@
+# Folders
+Content/IndustryPropsPack6
 Binaries
 DerivedDataCache
 Intermediate
 Saved
+
+# Filetypes
 .vscode
 .vs
 *.VC.db
